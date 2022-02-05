@@ -25,7 +25,7 @@ function loadHomePage() {
         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Non magni debitis saepe, earum et voluptate
             nisi,
             qui impedit, cumque unde aliquam possimus. Necessitatibus, earum assumenda.</p>
-        <img src="../src/img/restaurant-inside.jpg" width="600px">
+        <img src="./src/img/restaurant-inside.jpg" width="600px">
     </div>`
 
 }
